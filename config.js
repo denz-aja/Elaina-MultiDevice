@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
-global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
+global.sig = 'https://profil.meta2023.repl.co/' //Link Instagrammu
+global.sgh = 'https://profil.meta2023.repl.co/' //Link Githubmu
+global.sgc = 'https://profil.meta2023.repl.co/'
+global.sdc = 'https://profil.meta2023.repl.co/' //Isi Pake Link Discordmu Kalo Gada Biarin aja
+global.snh = 'https://profil.meta2023.repl.co/' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '085604500380' //Nomor Danamu
+global.ppulsa = '085604500380' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.com/' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nomorbot = '6285607069286' //Nomor Bot
+global.nomorown = '6285604500380' //Nomor Owner
+global.namebot = 'Denz Botz' //Nama Bot
+global.nameown = 'Denz' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285604500380', 'Denz', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,12 +99,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
-global.namedoc = 'Elaina`s Bot' //Main Name Menu Document
-global.botdate = `⫹⫺ Day's: ${week} ${date}`
-global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
+global.wm = 'Denz Botz' //Main Watermark
+global.wm2 = 'Website: https://profil.meta2023.repl.co/'
+global.wm3 = '⫹⫺ Denz Botz'
+global.namedoc = 'Denz Botz' //Main Name Menu Document
+global.botdate = `⫹⫺ Hari: ${week} ${date}`
+global.bottime = `Waktu: ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 
@@ -326,11 +326,11 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='] 
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.wait = 'Mohon tunggu. . .!'
+global.eror = 'Ada masalah di server kami!'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 856-0450-0380'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -371,9 +371,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʙᴏᴛᴢ'
+global.stickauth = `Powered by Denz Botz`
+global.packname = 'Created by'
+global.packname2 = 'Created by Denz Botz'
 
 global.multiplier = 38 // The higher, The harder levelup
 
